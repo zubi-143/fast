@@ -10,7 +10,7 @@
 
 # git clone https://github.com/zubi-143/fast.git
 
-# cd zubair
+# cd fast
 
 # pip2 install mechanize
 
